@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">My name is Prashant Upadhyay and I'm a  backend developer.</h1>
+<h1 align="left">I'm Prashant Upadhyay and I'm a  backend developer.</h1>
 
 ###
 
