@@ -11,11 +11,6 @@
 ###
 
 <h2 align="left">About me</h2>
-
-###
-
-<p align="left">I'm an engineer graduate in Computer application. From Maulana mazharul Haque arbic and pharsi University Patna. After that I start prepration for nimcet for further education. Were I'm not able to clear that exam. Then I'm start studying for becoming full stack developer and now  I'm currently learning  Java Full stackdevelopment course.</p>
-
 ###
 
 <div align="left">
